@@ -1,0 +1,24 @@
+.footer__link {
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: left;
+  color: white;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+  opacity: .8;
+}
+
+@media screen and (min-width: 768px) {
+
+  .footer__link {
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    text-align: left;
+  }
+}

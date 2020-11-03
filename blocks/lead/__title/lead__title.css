@@ -7,3 +7,22 @@
   padding: 0;
   max-width: 288px;
 }
+
+@media screen and (min-width: 540px) {
+
+  .lead__title {
+    font-size: 64px;
+    line-height: 68px;
+    max-width: 520px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  .lead__title {
+    font-size: 96px;
+    line-height: 100px;
+    max-width: 720px;
+    padding: 0;
+  }
+}

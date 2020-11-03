@@ -1,0 +1,9 @@
+.places__link {
+  width: 100%;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  margin-top: 12px;
+  color: white;
+}

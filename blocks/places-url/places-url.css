@@ -1,0 +1,14 @@
+.places-url {
+  display: none;
+  flex-wrap: wrap;
+  align-self: end;
+  grid-area: url;
+  align-self: end;
+}
+
+@media screen and (min-width: 768px) {
+
+  .places-url {
+    display: flex;
+  }
+}

@@ -1,0 +1,11 @@
+.title_indent {
+  margin: 0;
+  padding: 0 16px;
+}
+
+@media screen and (min-width: 768px) {
+
+  .title_indent {
+    padding: 0;
+  }
+}

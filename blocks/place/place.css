@@ -1,0 +1,40 @@
+.place {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+
+  .place {
+    display: grid;
+    gap: 28px;
+    grid-template-areas: 
+    "title url"
+    "image description";
+    grid-template-columns: 340px calc(100vw - (48px + 340px + 28px));
+  }
+}
+
+@media screen and (min-width: 1024px) {
+
+  .place {
+    display: grid;
+    grid-template-areas: 
+    "title url"
+    "image description";
+    gap: 32px;
+    grid-template-columns: 440px calc(100vw - (96px + 440px + 32px));
+  }
+}
+
+
+@media screen and (min-width: 1280px) {
+
+  .place {
+    display: grid;
+    grid-template-areas: 
+    "title url"
+    "image description";
+    gap: 40px;
+    grid-template-columns: 460px calc(100vw - (296px + 460px + 40px));
+  }
+}
