@@ -17,7 +17,7 @@
 * Аэропортов: 241 
 
 
-* [Посмотреть места](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+* [Посмотреть места](https://holmarst.github.io/russian-travel/)
 
 
 Приятного путешествия!
