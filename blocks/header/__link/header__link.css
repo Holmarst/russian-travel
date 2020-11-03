@@ -1,0 +1,17 @@
+.header__link {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: normal;
+  text-align: right;
+  text-decoration: none;
+  color: white;
+  margin-left: 18px;
+}
+
+.header__link_active {
+  text-decoration: underline;
+}
+
+.header__link:hover {
+  text-decoration: underline;
+}
