@@ -17,7 +17,7 @@
 * Аэропортов: 241 
 
 
-* [Посмотреть места](https://holmarst.github.io/russian-travel/)
+* [Посмотреть места](https://holmarst.github.io/russian-travel/index.html)
 
 
 Приятного путешествия!
