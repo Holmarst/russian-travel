@@ -17,9 +17,7 @@
   .place:first-child .title {
     max-width: 260px;
   }
-  
 }
-
 
 @media screen and (min-width: 1024px) {
 
@@ -31,5 +29,4 @@
   .place:first-child .title {
     max-width: 440px;
   }
-
 }
