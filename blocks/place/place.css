@@ -14,7 +14,7 @@
     grid-template-areas: 
     "title url"
     "image description";
-    grid-template-columns: 340px 352px;  
+    grid-template-columns: 340px 352px;
     gap: 48px 28px;
   }
 }
