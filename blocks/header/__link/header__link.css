@@ -6,14 +6,11 @@
   text-decoration: none;
   color: white;
   margin-left: 18px;
-}
-
-.header__link_active {
-  text-decoration: underline;
+  opacity: 1;
 }
 
 .header__link:hover {
-  text-decoration: underline;
+  opacity: .8;
 }
 
 @media screen and (min-width: 768px) {

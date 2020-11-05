@@ -1,4 +1,4 @@
-.places-url {
+.place__adress {
   display: none;
   flex-wrap: wrap;
   align-self: end;
@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 768px) {
 
-  .places-url {
+  .place__adress {
     display: flex;
   }
 }

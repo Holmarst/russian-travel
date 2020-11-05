@@ -1,39 +1,36 @@
 .place {
+  display: grid;
   justify-content: center;
+  grid-template-areas: 
+  "title"
+  "image" 
+  "description";
+  gap: 32px;
 }
 
 @media screen and (min-width: 768px) {
 
   .place {
-    display: grid;
-    gap: 28px;
     grid-template-areas: 
     "title url"
     "image description";
     grid-template-columns: 340px 352px;  
+    gap: 48px 28px;
   }
 }
 
 @media screen and (min-width: 1024px) {
 
   .place {
-    display: grid;
-    grid-template-areas: 
-    "title url"
-    "image description";
-    gap: 32px;
     grid-template-columns: 440px 456px;
+    gap: 48px 32px;
   }
 }
 
 @media screen and (min-width: 1280px) {
 
   .place {
-    display: grid;
-    grid-template-areas: 
-    "title url"
-    "image description";
-    gap: 40px;
     grid-template-columns: 460px 484px;
+    gap: 48px 40px;
   }
 }

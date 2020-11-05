@@ -1,11 +1,10 @@
-.title_indent {
-  margin: 0;
+.place__description {
   padding: 0 16px;
 }
 
 @media screen and (min-width: 768px) {
 
-  .title_indent {
+  .place__description {
     padding: 0;
   }
 }
