@@ -1,4 +1,4 @@
-.cover__link {
+  .cover__link {
   text-decoration: none;
   color: white;
   display: flex;
@@ -29,4 +29,4 @@
     max-width: 1184px;
     min-height: 740px;
   }
-}
+} 
