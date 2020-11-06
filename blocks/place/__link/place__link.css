@@ -6,4 +6,9 @@
   text-align: left;
   margin-top: 12px;
   color: white;
+  opacity: 1;
+}
+
+.place__link:hover {
+  opacity: .8;
 }

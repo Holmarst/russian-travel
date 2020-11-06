@@ -5,7 +5,7 @@
   background-position: center;
   position: relative;
   background-color: #464646;
-  min-height: 62.5vw;
+  max-height: 62.5vw;
 }
 
 .cover:before {
@@ -28,7 +28,7 @@
 @media screen and (min-width: 768px) {
 
   .cover {
-    min-height: 480px;
+    max-height: 480px;
   }
 }
 
